@@ -1,0 +1,2 @@
+tag1: mboxcheck
+  http://packages.debian.org/unstable/mboxcheck pregexp:tar.gz file:mboxcheck_0.1.2.tar.gz new: x:
