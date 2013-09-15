@@ -1,24 +1,27 @@
 To: cygwin-announce@cygwin.com
-Subject: Updated: mboxcheck 0.1.2-1 -- decription
+Subject: Updated: mboxcheck 0.1.2-2 -- Mailbox scan utility
 --text follows this line--
 
 PACKAGE DESCRIPTION
 ===================
 
-Homepage:
-License : GPL
+Homepage: http://www.opal.dhs.org/programs/mboxcheck
+License : GPL-2+
 
-<write description here>
+A command line utility for scanning MBOX files for new, seen, read and
+deleted mail. It has a cache function to speed up the process, to be
+able to scan large amount of mails. This is useful for people that
+automatically sort email into a large amount of files.
 
 CHANGES SINCE LAST RELEASE
 ==========================
 
-<Add this section if this is update>
+See homepage.
 
 INSTALL OR UPGRADE NOTES
 ========================
 
-<if anything to watch out>
+Standard install.
 
 CYGWIN INSTALLATION INFORMATION
 ===============================

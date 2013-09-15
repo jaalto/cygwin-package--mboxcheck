@@ -9,11 +9,9 @@ able to scan large amount of mails. This is useful for people that
 automatically sort email into a large amount of files.
 
 Runtime requirements:
-  cygwin
   perl
 
 Build requirements:
-  cygwin
   perl
 
 Canonical homepage:
@@ -59,8 +57,12 @@ Files included in the binary distribution:
 
 Port Notes:
 
+----- version 0.1.2-2 -----
+- Cygwin package 2013-09-15 Jari Aalto
+- Add makefile patch for DESTDIR
+
 ----- version 0.1.2-1 -----
 - Initial release 2012-02-23 Jari Aalto
 
-Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
-Copyright (C) 2012 Jari Aalto; Licensed under GPL v2 or later
+Cygwin port maintained by: user <jari.aalto@cante.net>
+Copyright (C) 2012-2013 Jari Aalto; Licensed under GPL v2 or later
