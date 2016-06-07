@@ -1,3 +1,4 @@
+# ARCH=noarch
 sdesc: "Mailbox scan utility"
 ldesc: "A command line utility for scanning MBOX files for new, seen, read and
 deleted mail. It has a cache function to speed up the process, to be
